@@ -24,3 +24,7 @@ also can use the following lnk
 
 https://www.sciencedirect.com/science/article/abs/pii/S2214785321078767
 
+
+- A second meeting was held on Sunday 07 July 2025 after an aborted neeting the previous Friday. This folder will now be used to also capture the output tabular plan, recordiing and document discussed extensively.
+
+- I will seek also to use AI to summarize that scientific document
